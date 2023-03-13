@@ -5,4 +5,6 @@
 
 Uses Simple OpenWeather API for Weather Data
 
+Weather App fetches the current location of the user and shows the  weather data from the API and after processing it show the data Also user can search the location for which the data is needed to get
+
 Shows Weather For the Current Location Also you can search weather for you city Also
